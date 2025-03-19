@@ -19,8 +19,8 @@ A Python-based security camera application that uses computer vision to detect f
 
 1. Clone this repository:
    ```
-   git clone 
-   cd security-camera
+   git clone https://github.com/Rafiqdevhub/Security-Camera-System.git
+   cd Security-Camera-System
    ```
 
 2. Install the required dependencies:
